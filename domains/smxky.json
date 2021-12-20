@@ -1,1 +1,11 @@
-
+{
+  "description": "smxky's personal website",
+  "repo": "https://github.com/yk0ms",
+  "owner": {
+    "username": "yk0ms",
+    "email": "contact@smxky.service"
+  },
+  "record": {
+    "CNAME": "smxky.service"
+  }
+}
